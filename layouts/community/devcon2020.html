@@ -4,9 +4,8 @@ DevCon 2020
 {{- end -}}
 
 {{- define "headTpl" -}}
-{{ $.Scratch.Set "data_i18_cn" true }}
 {{ $.Scratch.Set "nav_active" "community" }}
-{{ $.Scratch.Set "data_i18_link" "/community/organization" }}
+{{ $.Scratch.Set "data_i18_link" "/community-cn/devcon2020" }}
 {{- partial "head/preload-css" (dict "href" "/css/community/devcon2020.css") -}}
 {{- partial "head/preload-css" (dict "href" "/css/community/hackathon2019.css") -}}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" />
@@ -28,14 +27,18 @@ DevCon 2020
 <div class="devCon devCon2020">
     <div class="banner__section devcon2020-banner">
         <a class="sigup-btn" href="#sign-up">
-            立即报名
+            Watch DevCon 2020 Live
         </a>
     </div>
 
     <section class="activity-breif">
-        TiDB DevCon 是 PingCAP 团队面向 TiDB 社区推出的技术会议，每年在北京举办。本届 DevCon 将在 2
-        天的时间里，以线上直播的方式，为大家展示 TiDB 近一年的产品技术蜕变，分享最新的海内外生态进展。并将邀请来自全球的 50+
-        位用户，分享他们的实战经验和开源思考，覆盖金融、制造业、电信、电商、物流、能源、快消、新零售、云计算等多个领域。
+        TiDB DevCon is the annual developer conference for the TiDB community. Launched by PingCAP, this 2-day event
+        aims to provide a venue where we showcase the evolution of product and technology in the past year and the
+        latest progress in the TiDB ecosystem. Due to Covid-19, this year's DevCon is completely virtual and will be
+        live-streamed to the entire community. 50+ TiDB adopters and committers from China and abroad will share with
+        you their practical experience applying TiDB and thoughts on open-source, covering multiple fields such as
+        finance, manufacturing, telecommunications, e-commerce, logistics, energy, FMCG, new retail, and cloud
+        computing.
     </section>
 
     <div class="agenda-wrapper">
@@ -57,7 +60,7 @@ DevCon 2020
 
             <div class="venues">
                 <div class="day1">
-                    {{- range $idx, $i := .Site.Data.devcon.venues_2020.day1 -}}
+                    {{- range $idx, $i := .Site.Data.devcon.venues_2020_en.day1 -}}
                     <div class="venue-detail">
                         <div class="time">{{ $i.time }}</div>
                         {{- range $j := $i.venues -}}
@@ -70,7 +73,7 @@ DevCon 2020
                     {{- end -}}
                 </div>
                 <div class="day2 hide-schedule">
-                    {{- range $idx, $i := .Site.Data.devcon.venues_2020.day2 -}}
+                    {{- range $idx, $i := .Site.Data.devcon.venues_2020_en.day2 -}}
                     <div class="venue-detail">
                         <div class="time">{{ $i.time }}</div>
                         {{- range $j := $i.venues -}}
@@ -83,9 +86,9 @@ DevCon 2020
                     {{- end -}}
                 </div>
             </div>
-            {{- partial "community-cn/devcon2020-schedule-table.html" (dict "schedule" .Site.Data.devcon.devcon2020_day1_schedule "global" . "date" "day1") -}}
+            {{- partial "community-cn/devcon2020-schedule-table.html" (dict "schedule" .Site.Data.devcon.devcon2020_day1_schedule_en "global" . "date" "day1") -}}
 
-            {{- partial "community-cn/devcon2020-schedule-table.html" (dict "schedule" .Site.Data.devcon.devcon2020_day2_schedule "global" . "date" "day2") -}}
+            {{- partial "community-cn/devcon2020-schedule-table.html" (dict "schedule" .Site.Data.devcon.devcon2020_day2_schedule_en "global" . "date" "day2") -}}
 
             <div class="switch-date-btn date2">DAY2 日程</div>
         </section>
