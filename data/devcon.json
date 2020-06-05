@@ -70,6 +70,7 @@
             "name": "Main Forum and TiDB 4.0 Release",
             "id": "day1-1",
             "icon": "/images/community/devcon2020/el-main.svg",
+            "link": "http://live.bilibili.com/4630260", 
             "main": true
           }
         ]
@@ -80,12 +81,14 @@
           {
             "name": "Finance Session",
             "id": "day1-2",
-            "icon": "/images/community/devcon2020/el-finance.svg"
+            "icon": "/images/community/devcon2020/el-finance.svg",
+            "link": "http://live.bilibili.com/4630260"
           },
           {
             "name": "E-commerce / Logistics / New Retail / Mobility Session",
             "id": "day1-3",
-            "icon": "/images/community/devcon2020/el-business.svg"
+            "icon": "/images/community/devcon2020/el-business.svg",
+            "link": "https://live.bilibili.com/22225816"
           }
         ]
       }
@@ -97,12 +100,14 @@
           {
             "name": "Partner Ecosystem and New Product Features Session",
             "id": "day2-1",
-            "icon": "/images/community/devcon2020/el-developer.svg"
+            "icon": "/images/community/devcon2020/el-developer.svg",
+            "link": "https://live.bilibili.com/22225816"
           },
           {
             "name": "Developer Community Session",
             "id": "day2-2",
-            "icon": "/images/community/devcon2020/el-product.svg"
+            "icon": "/images/community/devcon2020/el-product.svg",
+            "link": "http://live.bilibili.com/4630260"
           }
         ]
       },
@@ -112,12 +117,14 @@
           {
             "name": "Telecommunications/Energy/Manufacturing/High-tech Sessions",
             "id": "day2-3",
-            "icon": "/images/community/devcon2020/el-service.svg"
+            "icon": "/images/community/devcon2020/el-service.svg",
+            "link": "Watch http://live.bilibili.com/4630260"
           },
           {
             "name": "Education / Video / Information Session",
             "id": "day2-4",
-            "icon": "/images/community/devcon2020/el-education.svg"
+            "icon": "/images/community/devcon2020/el-education.svg",
+            "link": "https://live.bilibili.com/22225816"
           }
         ]
       }
@@ -1391,7 +1398,7 @@
             "1. Why choose Chaos Mesh™?",
             "2. How to land Chaos Mesh™ at the early stage?",
             "3. How to issue PR to achieve usability and security?",
-            "1. 分享鲲鹏 ARM 的生态体系特别是构建于其上的软件生态的发展现状；"
+            "4. How does it fit in the automotive industry?"
           ]
         }
       ]
@@ -1594,9 +1601,7 @@
           "talk_title": "TiDB Public Cloud Service in UCloud ",
           "speaker": "Yande CHANG",
           "company": "UCloud",
-          "talk_detail": [
-            "将 TiDB 运行在 UCloud 公有云上，结合 UCloud 公有云的优势，让用户以非常低廉的成本在两分钟内即可拥有生产级 TiDB 服务。近期我们又推出了新一代 TiDB 服务，将会带来哪些变化，本次 talk 将作详细讲解。"
-          ]
+          "talk_detail": []
         },
         {
           "time": "17:35 - 17:55",
@@ -2444,9 +2449,9 @@
       "company": "PingCAP"
     },
     {
-      "name": "刘寅",
+      "name": "Ken LIU",
       "avatar": "/images/community/devcon2020/speakers/liuyin.png",
-      "title": "TiDB 云产品负责人",
+      "title": "VP & General Manager of DBaaS Solution Team",
       "company": "PingCAP"
     },
     {
