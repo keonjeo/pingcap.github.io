@@ -2263,40 +2263,40 @@
   
   "instructors_2020_en": [
     {
-      "name": "蔡江",
+      "name": "Jiang CAI",
       "avatar": "/images/community/devcon2020/speakers/caijiang.png",
-      "title": "高级运维工程师",
-      "company": "中通快递"
+      "title": "Senior Operations Engineer",
+      "company": "ZTO Express"
     },
     {
-      "name": "岑启超",
+      "name": "Qichao CEN",
       "avatar": "/images/community/devcon2020/speakers/cenqichao.png",
-      "title": "开发经理",
-      "company": "金山办公"
+      "title": "Development Manager",
+      "company": "Kingsoft Office"
     },
     {
-      "name": "常彦德",
+      "name": "Yande CHANG",
       "avatar": "/images/community/devcon2020/speakers/changyande.png",
-      "title": "存储组件产品部负责人",
+      "title": "Head of Storage Components Product Department",
       "company": "UCloud"
     },
     {
-      "name": "陈付",
+      "name": "Fu CHEN",
       "avatar": "/images/community/devcon2020/speakers/chenfu.png",
       "title": "TiKV Maintainer",
-      "company": "一点资讯"
+      "company": "Yidian Zixun"
     },
     {
-      "name": "陈柳源",
+      "name": "Liuyuan CHEN",
       "avatar": "/images/community/devcon2020/speakers/chenliuyuan.png",
-      "title": "数据智能总经理",
-      "company": "用友"
+      "title": "General Manager of Data Intelligence",
+      "company": "Yonyou"
     },
     {
-      "name": "陈龙",
+      "name": "Long CHEN",
       "avatar": "/images/community/devcon2020/speakers/chenlong.png",
-      "title": "鲲鹏计算产品部生态经理，高级工程师",
-      "company": "华为"
+      "title": "Senior Engineer & Ecological Manager, Kunpeng Computing Department",
+      "company": "Huawei"
     },
     {
       "name": "Zhendong CHEN",
@@ -2305,10 +2305,10 @@
       "company": "Bank of Beijing"
     },
     {
-      "name": "陈执政",
+      "name": "Zhizheng CHEN",
       "avatar": "/images/community/devcon2020/speakers/chenzhizheng.png",
-      "title": "联通系统集成项目经理",
-      "company": "联通大数据"
+      "title": "Unicom System Integration Project Manager",
+      "company": "Unicom Big Data"
     },
     {
       "name": "Dylan CUI",
@@ -2317,28 +2317,28 @@
       "company": "PingCAP"
     },
     {
-      "name": "丁炜",
+      "name": "Wei DING",
       "avatar": "/images/community/devcon2020/speakers/dingwei.png",
       "title": "Senior Engineer",
       "company": "U-Next"
     },
     {
-      "name": "冯伟",
+      "name": "Wei FENG",
       "avatar": "/images/community/devcon2020/speakers/fengwei.png",
       "title": "CTO",
-      "company": "人民在线"
+      "company": "People Yuqing"
     },
     {
-      "name": "傅少峰",
+      "name": "New Oriental",
       "avatar": "/images/community/devcon2020/speakers/fushaofeng.png",
-      "title": "数据库负责人",
-      "company": "新东方"
+      "title": "Head of Database",
+      "company": "New Oriental"
     },
     {
-      "name": "高海涛",
+      "name": "Haitao GAO",
       "avatar": "/images/community/devcon2020/speakers/gaohaitao.png",
       "title": "TiDB Reviewer",
-      "company": "美团点评"
+      "company": "Meituan Dianping "
     },
     {
       "name": "Yu HAN",
@@ -2347,10 +2347,10 @@
       "company": "Bank of China"
     },
     {
-      "name": "贺磊",
+      "name": "Lei HE",
       "avatar": "/images/community/devcon2020/speakers/helei.png",
-      "title": "高级 DBA",
-      "company": "奇虎 360"
+      "title": "Senior DBA",
+      "company": "Qihoo 360"
     },
     {
       "name": "Zhiyong HE",
@@ -2359,13 +2359,13 @@
       "company": "Ping An Technology"
     },
     {
-      "name": "侯圣文",
+      "name": "Shengwen HOU",
       "avatar": "/images/community/devcon2020/speakers/houshengwen.png",
-      "title": "技术总监",
-      "company": "贝壳找房"
+      "title": "Technical Director",
+      "company": "Beike"
     },
     {
-      "name": "黄必荣",
+      "name": "Birong HUANG",
       "avatar": "/images/community/devcon2020/speakers/huangbirong.png",
       "title": "Senior Engineer",
       "company": "U-Next"
@@ -2383,10 +2383,10 @@
       "company": "Meituan-Dianping"
     },
     {
-      "name": "胡国青",
+      "name": "Guoqing HU",
       "avatar": "/images/community/devcon2020/speakers/huguoqing.png",
-      "title": "DBA 负责人",
-      "company": "马蜂窝"
+      "title": "DBA Team Lead",
+      "company": "Mafengwo"
     },
     {
       "name": "Panpan HU",
@@ -2395,10 +2395,10 @@
       "company": "WeBank"
     },
     {
-      "name": "巨思旸",
+      "name": "Siyang JU",
       "avatar": "/images/community/devcon2020/speakers/jusiyang.png",
-      "title": "大数据平台产品经理",
-      "company": "威锐达"
+      "title": "Product Manager of Big Data Platform Department",
+      "company": "WeiRuida"
     },
     {
       "name": "Houqi LAI",
@@ -2408,10 +2408,10 @@
       "noAvatar": true
     },
     {
-      "name": "李超",
+      "name": "Chao LI",
       "avatar": "/images/community/devcon2020/speakers/lichao.png",
-      "title": "事业部技术中心经理",
-      "company": "新华财经"
+      "title": "Manager of Technology Center in Business Unit",
+      "company": "Xinhua Finance"
     },
     {
       "name": "Heng LI",
@@ -2426,16 +2426,16 @@
       "company": "Shopee"
     },
     {
-      "name": "刘东坡",
+      "name": "Dongpo LIU",
       "avatar": "/images/community/devcon2020/speakers/liudongpo.png",
       "title": "TiDB Contributor",
       "company": "Morningstar"
     },
     {
-      "name": "刘江",
+      "name": "Jiang LIU",
       "avatar": "/images/community/devcon2020/speakers/liujiang.png",
-      "title": "数据库负责人",
-      "company": "伴鱼英语"
+      "title": "Head of Database",
+      "company": "PalFish English"
     },
     {
       "name": "Max LIU",
@@ -2450,10 +2450,10 @@
       "company": "PingCAP"
     },
     {
-      "name": "李文杰",
+      "name": "Wenjie LI",
       "avatar": "/images/community/devcon2020/speakers/liwenjie.png",
-      "title": "数据库工程师",
-      "company": "网易互娱"
+      "title": "Database Engineer",
+      "company": "NetEase Games"
     },
     {
       "name": "Yinlong LI",
@@ -2462,16 +2462,16 @@
       "company": "Mashang Consumer Finance"
     },
     {
-      "name": "李永坤",
+      "name": "Yongkun LI",
       "avatar": "/images/community/devcon2020/speakers/liyongkun.png",
-      "title": "计算机学院副教授",
-      "company": "中国科学技术大学"
+      "title": "Associate Professor, School of Computer Science and Technology",
+      "company": "USTC"
     },
     {
-      "name": "刘宇",
+      "name": "Yu LIU",
       "avatar": "/images/community/devcon2020/speakers/liuyu.png",
-      "title": "资深架构师",
-      "company": "天翼支付"
+      "title": "Senior Architect",
+      "company": "Wing Payment"
     },
     {
       "name": "Zhenhuan LI",
@@ -2492,9 +2492,9 @@
       "company": "ETH Zurich"
     },
     {
-      "name": "马晓宇",
+      "name": "Shawn MA",
       "avatar": "/images/community/devcon2020/speakers/maxiaoyu.png",
-      "title": "实时分析产品负责人",
+      "title": "Manager of Real-time Analysis Products",
       "company": "PingCAP"
     },
     {
@@ -2528,10 +2528,10 @@
       "company": "PingCAP"
     },
     {
-      "name": "沈均",
+      "name": "Jun SHEN",
       "avatar": "/images/community/devcon2020/speakers/shenjun.png",
-      "title": "资深DBA",
-      "company": "壹米滴答集团"
+      "title": "Senior DBA",
+      "company": "Yimi Dida"
     },
     {
       "name": "Li Shen",
@@ -2540,22 +2540,22 @@
       "company": "PingCAP"
     },
     {
-      "name": "孙晓光",
+      "name": "Xiaoguang SUN",
       "avatar": "/images/community/devcon2020/speakers/sunxiaoguang.png",
       "title": "TiKV Maintainer",
-      "company": "知乎"
+      "company": "Zhihu"
     },
     {
-      "name": "谭恒亮",
+      "name": "Hengliang TAN",
       "avatar": "/images/community/devcon2020/speakers/tanhengliang.png",
-      "title": "云平台技术专家",
-      "company": "小鹏汽车"
+      "title": "Cloud Platform Technical Expert",
+      "company": "Xpeng Motors"
     },
     {
-      "name": "汤凌菲",
+      "name": "Lingfei TANG",
       "avatar": "/images/community/devcon2020/speakers/tanglingfei.png",
-      "title": "资深软件工程师",
-      "company": "光迅科技"
+      "title": "Senior Software Engineer",
+      "company": "Accelink Technologies"
     },
     {
       "name": "Siddon TANG",
@@ -2576,21 +2576,21 @@
       "company": "ZaloPay"
     },
     {
-      "name": "田朋",
+      "name": "Peng TIAN",
       "avatar": "/images/community/devcon2020/speakers/tianpeng.png",
-      "title": "高级 DBA",
-      "company": "京东数科"
+      "title": "Senior DBA",
+      "company": "JDD"
     },
     {
-      "name": "汪涉洋",
+      "name": "Sheyang WANG",
       "avatar": "/images/community/devcon2020/speakers/wangsheyang.png",
-      "title": "大数据团队技术经理",
-      "company": "车好多集团"
+      "title": "Technical Manager of Big Data Team",
+      "company": "Chehaoduo"
     },
     {
-      "name": "王旭",
+      "name": "Xu WANG",
       "avatar": "/images/community/devcon2020/speakers/wangxu.png",
-      "title": "主站技术中心 资深开发工程师",
+      "title": "Senior Engineer in Master Station Technical Center",
       "company": "bilibili"
     },
     {
@@ -2606,16 +2606,16 @@
       "company": "Everbright Bank"
     },
     {
-      "name": "万继光",
+      "name": "Jiguang WAN",
       "avatar": "/images/community/devcon2020/speakers/wanjiguang.png",
-      "title": "并行数据存储实验室教授",
-      "company": "武汉光电国家研究中心"
+      "title": "Professor of the Key Laboratory of Data Storage System",
+      "company": "Wuhan National Laboooratory for Optooelectronics "
     },
     {
-      "name": "魏彬",
+      "name": "Bin WEI",
       "avatar": "/images/community/devcon2020/speakers/weibin.png",
       "title": "CTO",
-      "company": "普翔科技"
+      "company": "Puxiang Technology"
     },
     {
       "name": "Jianfeng WU",
@@ -2624,28 +2624,28 @@
       "company": "Yum China"
     },
     {
-      "name": "吴叶磊",
+      "name": "Yelei WU",
       "avatar": "/images/community/devcon2020/speakers/wuyelei.png",
-      "title": "Cloud 工程师",
+      "title": "Cloud Engineer",
       "company": "PingCAP"
     },
     {
-      "name": "许超",
+      "name": "Chao XU",
       "avatar": "/images/community/devcon2020/speakers/xuchao.png",
-      "title": "资深 DBA 工程师",
+      "title": "Senior DBA Engineer",
       "company": "VIPKID"
     },
     {
-      "name": "许登峰",
+      "name": "Dengfeng XU",
       "avatar": "/images/community/devcon2020/speakers/xudengfeng.png",
-      "title": "资深架构师",
-      "company": "北大医信"
+      "title": "Senior Architect",
+      "company": "Peking University Medical Trust"
     },
     {
-      "name": "薛超",
+      "name": "Chao XUE",
       "avatar": "/images/community/devcon2020/speakers/xuechao.png",
-      "title": "数据库运维高级工程师",
-      "company": "中移物联网有限公司"
+      "title": "Senior Database DevOps Engineer",
+      "company": "China Mobile Internet of Things"
     },
     {
       "name": "Chunyu XUE",
@@ -2654,41 +2654,41 @@
       "company": "TECHO Telecom"
     },
     {
-      "name": "徐嘉埥",
+      "name": "Jiajing XU",
       "avatar": "/images/community/devcon2020/speakers/xujiaqing.png",
       "title": "DBA",
       "company": "Bigo"
     },
     {
-      "name": "杨立波",
+      "name": "Libo YANG",
       "avatar": "/images/community/devcon2020/speakers/yanglibo.png",
-      "title": "调控中心自动化处处长",
-      "company": "国网河北省电力公司",
+      "title": "Director of Automation Department of Control Center",
+      "company": "State Grid Hebei Electric Power Supply",
       "noAvatar": true
     },
     {
-      "name": "杨哲轩",
+      "name": "Zhexuan YANG",
       "avatar": "/images/community/devcon2020/speakers/yangzhexuan.png",
-      "title": "资深解决方案架构师",
+      "title": "Senior Solution Architect",
       "company": "PingCAP"
     },
     {
-      "name": "姚维",
+      "name": "Wink YAO",
       "avatar": "/images/community/devcon2020/speakers/yaowei.png",
-      "title": "TiDB 开源社区运营负责人",
+      "title": "General Manager of TiDB Community Operations",
       "company": "PingCAP"
     },
     {
-      "name": "冀浩东",
-      "avatar": "/images/community/devcon2020/speakers/yihaodong.png",
-      "title": "数据库负责人",
-      "company": "转转"
+      "name": "Haodong JI",
+      "avatar": "/images/community/devcon2020/speakers/jihaodong.png",
+      "title": "Database Manager",
+      "company": "Zhuanzhuan"
     },
     {
-      "name": "易南伟",
+      "name": "Nanwei YI",
       "avatar": "/images/community/devcon2020/speakers/yinanwei.png",
-      "title": "资深架构师",
-      "company": "华润创业"
+      "title": "CR Enterprise",
+      "company": "Senior Architect"
     },
     {
       "name": "Joe YU",
@@ -2697,22 +2697,22 @@
       "company": "PingCAP"
     },
     {
-      "name": "余梦杰",
+      "name": "Jason YU",
       "avatar": "/images/community/devcon2020/speakers/yumengjie.png",
-      "title": "合伙人、执行副总裁",
+      "title": "Executive Vice President",
       "company": "PingCAP"
     },
     {
-      "name": "张帆",
+      "name": "Fan ZHANG",
       "avatar": "/images/community/devcon2020/speakers/zhangfan.png",
-      "title": "工程师",
-      "company": "汽车之家"
+      "title": "Engineer",
+      "company": "Autohome"
     },
     {
-      "name": "张含宇",
+      "name": "Hanyu ZHANG",
       "avatar": "/images/community/devcon2020/speakers/zhanghanyu.png",
-      "title": "运维组数据库负责人",
-      "company": "新奥燃气",
+      "title": "Head of Database Technoloty in Operation and Maintenance Team",
+      "company": "ENN Energy",
       "noAvatar": true
     },
     {
@@ -2722,46 +2722,46 @@
       "company": "Sinosoft"
     },
     {
-      "name": "张雯",
+      "name": "Wen ZHANG",
       "avatar": "/images/community/devcon2020/speakers/zhangwen.png",
-      "title": "基础技术部 DBA",
+      "title": "DBA in Basic Technology Department",
       "company": "bilibili"
     },
     {
-      "name": "张亿皓",
+      "name": "Yihao ZHANG",
       "avatar": "/images/community/devcon2020/speakers/zhangyihao.png",
-      "title": "基础技术部资深开发工程师",
-      "company": "小红书"
+      "title": "Senior Development Engineer, InfrastructureTechnology Department",
+      "company": "Xiaohongshu"
     },
     {
-      "name": "赵海军",
+      "name": "Haijun ZHAO",
       "avatar": "/images/community/devcon2020/speakers/zhaohaijun.png",
-      "title": "数据库负责人",
-      "company": "理想汽车"
+      "title": "Head of Database Technology",
+      "company": "Lixiang Automotive"
     },
     {
-      "name": "郑智辉",
+      "name": "Zhihui ZHENG",
       "avatar": "/images/community/devcon2020/speakers/zhengzhihui.png",
-      "title": "运营开发",
-      "company": "腾讯"
+      "title": "DevOps Engineer",
+      "company": "Tencent"
     },
     {
-      "name": "朱友志",
-      "avatar": "/images/community/devcon2020/speakers/zhiyouzhi.png",
-      "title": "大数据架构师",
-      "company": "中通快递"
+      "name": "Youzhi ZHU",
+      "avatar": "/images/community/devcon2020/speakers/zhuyouzhi.png",
+      "title": "Big Data Architect",
+      "company": "ZTO Express"
     },
     {
-      "name": "庄天翼",
+      "name": "Tenny ZHUANG",
       "avatar": "/images/community/devcon2020/speakers/zhuangtianyi.png",
       "title": "TiKV Committer",
-      "company": "阿里巴巴"
+      "company": "Alibaba"
     },
     {
-      "name": "朱博帅",
+      "name": "Boshuai ZHU",
       "avatar": "/images/community/devcon2020/speakers/zhuboshuai.png",
-      "title": "资深数据库架构师",
-      "company": "爱奇艺"
+      "title": "Senior Database Architect",
+      "company": "IQIYI"
     }
   ],
   "support_meida2020": [
